@@ -4,7 +4,7 @@ age = 10
 vitals = {"age": 10}
 
 def pureGrowOlder(startingAge,timePassedInYears):
-    return age + timePassedInYears
+    return startingAge + timePassedInYears
 
 def globalGrowOlder(timePassedInYears):
     global age

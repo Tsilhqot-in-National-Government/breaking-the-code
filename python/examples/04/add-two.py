@@ -8,4 +8,3 @@ addTwo(5) # what does this do?
 y = addTwo(5) # will anything be printed?
 print(y) # how about now?
 print(addTwo(y)) # and now?
-# print(output) # what will happen here?
