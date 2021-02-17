@@ -1,0 +1,13 @@
+Input:
+destinations = ["atlanta","Seattle","VANCOUVER","ATLANTA","seattle","EDMONTON","edmonton","Edmonton","calgary","SEATTLE","Atlanta","CALGARY"]
+
+Task 1:
+write a function that takes a list of destination names as strings. Return a dictionary that has as keys the first three letters in a city's
+name (all caps) and as value the number of occurrences of the city in the list. Ignore case differences.
+
+hint: 
+https://www.w3schools.com/python/python_strings.asp
+
+Task 2: 
+Write a second function that returns a list of most-visited cities (in descending order).
+

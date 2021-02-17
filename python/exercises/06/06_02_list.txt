@@ -1,0 +1,11 @@
+06_02_list.txt
+
+Input:
+numbers = [4,2,5,2,1,4,5,7,8,6,4,3,4,2,1,3,6,8,9]
+
+Task: Write a function that takes this list of positive integers and returns a list with only the unique values
+in descending order.
+
+Task: Write a function that returns an list of duplicate values in this array in ascending order (repeats allowede).
+
+Question: How would you reuse your code to sort the original input in ascending order, keeping repeated values?
